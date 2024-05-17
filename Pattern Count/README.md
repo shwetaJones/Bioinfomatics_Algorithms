@@ -1,4 +1,4 @@
-**Pattern Count**
+# **Pattern Count**
 
 **Input:** Strings Text and Pattern.
      
