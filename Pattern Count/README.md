@@ -1,6 +1,9 @@
 **Pattern Count**
+
      **Input:** Strings Text and Pattern.
+     
      **Output:** Count(Text, Pattern).
+     
 
      PatternCount(Text, Pattern)
        count ← 0
