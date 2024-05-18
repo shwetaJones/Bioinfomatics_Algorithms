@@ -1,4 +1,6 @@
 # Bioinfomatics_Algorithms
-Fundamentals of Bioinformatics - CMU Class 02604
+Based on Carnegie Mellon University Course "Fundamentals of Bioinformatics"
 
-Instructor: Phillip Compeau
+**Course Number:** 02-604
+
+**Instructor:** Phillip Compeau
