@@ -1,4 +1,4 @@
-**Randomized Motif Search**
+# **Randomized Motif Search**
 
 **Input:** Integers k and t, followed by a collection of strings Dna.
      
